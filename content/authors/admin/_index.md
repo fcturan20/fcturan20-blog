@@ -1,7 +1,7 @@
 ---
 title: Furkan Can Turan
 role: ""
-avatar_filename: ""
+avatar_filename: avatar.jpg
 organizations: []
 superuser: true
 authors:
