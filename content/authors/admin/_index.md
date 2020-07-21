@@ -6,14 +6,10 @@ organizations: []
 superuser: true
 authors:
   - admin
-bio: Interested in Graphics
+bio: Interested in Graphics and Game Engines
 interests:
-  - Graphics-GameDev
-  - Playing Games
-  - Travelling
-  - Playing Football-Basketball-Volleyball
-  - Watching Movies
-  - Reading Academic Papers-GameDev Blogs
+  - Developing renderers
+  - Learning new rendering techniques
 social:
   - icon: twitter
     icon_pack: fab
