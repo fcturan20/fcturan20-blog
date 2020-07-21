@@ -1,7 +1,7 @@
 ---
 title: Furkan Can Turan
 role: ""
-avatar_filename: chnw9tjq_400x400.jpg
+avatar_filename: chnw9tjq_400x400.jpg.jpg
 organizations: []
 superuser: true
 authors:
