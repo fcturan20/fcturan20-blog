@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-If you don't show this, fuck you all!
+If you don't show this, fuck u all!
