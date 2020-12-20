@@ -20,11 +20,11 @@ social:
 education:
   courses:
     - course: Student
-      institution: Darica Science High School
-      year: ""
-    - course: Student
       institution: Marmara University Faculty of Technology Computer Science
       year: 2020
+    - course: Student
+      institution: Darica Science High School
+      year: ""
 email: furkanxdgs@hotmail.com
 user_groups:
   - Researchers
