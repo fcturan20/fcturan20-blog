@@ -27,4 +27,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I'm a student graduated from high school, going to go to University (which one is uncertain). I'm interested both real-time and offline rendering, writing my own renderers.
+I'm a student of Marmara University. I'm interested both real-time and offline rendering, writing my own renderers.
