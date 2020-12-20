@@ -1,7 +1,7 @@
 ---
 title: Why am I developing a RenderGraph?
 date: 2020-12-20T13:55:04.011Z
-summary: So my way to go is "Way 1" for now, because I still can't even think about a clearer (handles everything in a "magical" way) approach than "Way 2". The clearer way I think is something like an old API, which is already exists and which is way beyond me.
+summary: ""
 draft: false
 featured: false
 image:
@@ -18,3 +18,4 @@ Old APIs (OpenGL, Direct11 etc.) is replaced because of the driver co
 2) You prefer freedom and "some" performance loss against "Way 1" but again, better performance than old APIs, in the cost of preprocessing and some possible CPU performance loss.
 
 Yeah, it seems very obvious that "Way 2" is the way to go but it is not that easy to do so. Because what do I mean by preprocessing, what are we preprocessing? I don't know AI but running an hour of different benchmark scenes and gathering some informations about how the hardware will run the application is the way to go? But shouldn't this be the job of the app developer? Like I said, because I don't know it I can't say anything about it. What I think is GFX API should benchmark the hardware in a more basic way and some sort of "guess" in an algorithmic way, rather than a deep learning which operation is gonna finish first and decide how should synchronizations be placed. With this lack of information, this "guess" can't be implemented. If you think about it, this is how old APIs handles everything but GFX API is gonna be working on way less combination of cases (because you are obliged to define a RenderGraph anyway). But one of consequences of "Way 2" is that, it is gonna be hard to understand what it does. Also this type of APIs that handles something in a "magical" way should handle everything in a "magical" way rather than just a subset of it, otherwise there'll be lots of wrong usage related bugs which are hard to debug.
+So my way to go is "Way 1" for now, because I still can't even think about a clearer (handles everything in a "magical" way) approach than "Way 2". The clearer way I think is something like an old API, which is already exists and which is way beyond me.
