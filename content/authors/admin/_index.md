@@ -13,10 +13,10 @@ interests:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/furkanxdgs4
+    link: https://twitter.com/fcturan20
   - icon: github
     icon_pack: fab
-    link: https://github.com/furkanxdgs4
+    link: https://github.com/fcturan20
 education:
   courses:
     - course: Student
@@ -25,7 +25,7 @@ education:
     - course: Student
       institution: Darica Science High School
       year: ""
-email: furkanxdgs@hotmail.com
+email: fcturan10@gmail.com
 user_groups:
   - Researchers
   - Visitors
